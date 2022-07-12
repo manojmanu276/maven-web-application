@@ -27,7 +27,7 @@ public class EmployeeService {
 		js.put("DOB", "08-Nov-2011");
 		js.put("Hobbies", "Reading Technical Blogs,Teaching, Helping to Poor People..");
 		js.put("Places he like", "His native place");
-		js.put("Company", "qweyjyjyjyrlty");
+		js.put("Company", "qweyyrlty");
 
 		return js.toString();
 }
