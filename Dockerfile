@@ -1,4 +1,4 @@
-
+ARG label3
 ARG  label2
 ARG label 
 FROM tomcat:8.0.20-jre8
