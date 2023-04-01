@@ -1,2 +1,2 @@
-to practice the reset command
+to practice the reset command once
 
